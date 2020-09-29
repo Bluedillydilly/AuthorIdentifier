@@ -15,8 +15,8 @@ Apply to other old writings.
 
 
 ## Steps
-1. Corpus collection - how to source corpora text
-2. Corpus preprocessing - how to clean data for learning
-3. Get get linguistically yummy info from Corpus - what are we looking to get? what features are relevant.
+1. Corpora collection - how to source corpus text
+2. Corpora preprocessing - how to clean data for learning
+3. Get get linguistically yummy info from Corpora - what are we looking to get? what features are relevant.
 4. Training some NLP model to recognize authors -- supervised? unsupervised? -- try several
 5. Use model to find authors of parts of conversation. - test the bad boy out
